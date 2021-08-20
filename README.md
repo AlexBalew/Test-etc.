@@ -1,2 +1,2 @@
-# Tests-etc.
+# Tests-etc
 Some test cases
